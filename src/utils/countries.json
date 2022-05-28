@@ -1,0 +1,1237 @@
+[
+    {
+        "name": "Afghanistan",
+        "name_ko": "아프가니스탄",
+        "code": "+93"
+    },
+    {
+        "name": "Aland Islands",
+        "name_ko": "올란드 제도",
+        "code": "+358"
+    },
+    {
+        "name": "Albania",
+        "name_ko": "알바니아",
+        "code": "+355"
+    },
+    {
+        "name": "Algeria",
+        "name_ko": "알제리",
+        "code": "+213"
+    },
+    {
+        "name": "AmericanSamoa",
+        "name_ko": "아메리칸 사모아",
+        "code": "+1684"
+    },
+    {
+        "name": "Andorra",
+        "name_ko": "안도라",
+        "code": "+376"
+    },
+    {
+        "name": "Angola",
+        "name_ko": "앙골라",
+        "code": "+244"
+    },
+    {
+        "name": "Anguilla",
+        "name_ko": "앵귈라",
+        "code": "+1264"
+    },
+    {
+        "name": "Antarctica",
+        "name_ko": "남극 대륙",
+        "code": "+672"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "name_ko": "앤티가바부다",
+        "code": "+1268"
+    },
+    {
+        "name": "Argentina",
+        "name_ko": "아르헨티나",
+        "code": "+54"
+    },
+    {
+        "name": "Armenia",
+        "name_ko": "아르메니아",
+        "code": "+374"
+    },
+    {
+        "name": "Aruba",
+        "name_ko": "아루바",
+        "code": "+297"
+    },
+    {
+        "name": "Australia",
+        "name_ko": "호주",
+        "code": "+61"
+    },
+    {
+        "name": "Austria",
+        "name_ko": "오스트리아",
+        "code": "+43"
+    },
+    {
+        "name": "Azerbaijan",
+        "name_ko": "아제르바이잔",
+        "code": "+994"
+    },
+    {
+        "name": "Bahamas",
+        "name_ko": "바하마",
+        "code": "+1242"
+    },
+    {
+        "name": "Bahrain",
+        "name_ko": "바레인",
+        "code": "+973"
+    },
+    {
+        "name": "Bangladesh",
+        "name_ko": "방글라데시",
+        "code": "+880"
+    },
+    {
+        "name": "Barbados",
+        "name_ko": "바베이도스",
+        "code": "+1246"
+    },
+    {
+        "name": "Belarus",
+        "name_ko": "벨라루스",
+        "code": "+375"
+    },
+    {
+        "name": "Belgium",
+        "name_ko": "벨기에",
+        "code": "+32"
+    },
+    {
+        "name": "Belize",
+        "name_ko": "벨리즈",
+        "code": "+501"
+    },
+    {
+        "name": "Benin",
+        "name_ko": "베냉",
+        "code": "+229"
+    },
+    {
+        "name": "Bermuda",
+        "name_ko": "버뮤다",
+        "code": "+1441"
+    },
+    {
+        "name": "Bhutan",
+        "name_ko": "부탄",
+        "code": "+975"
+    },
+    {
+        "name": "Bolivia",
+        "name_ko": "볼리비아",
+        "code": "+591"
+    },
+    {
+        "name":"Bonaire",
+        "name_ko":"보네르",
+        "code":"+599"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "name_ko": "보스니아 헤르체고비나",
+        "code": "+387"
+    },
+    {
+        "name": "Botswana",
+        "name_ko": "보츠와나",
+        "code": "+267"
+    },
+    {
+        "name": "Brazil",
+        "name_ko": "브라질",
+        "code": "+55"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "name_ko": "영국령인도양식민지",
+        "code": "+246"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "name_ko": "브루나이 다루살람",
+        "code": "+673"
+    },
+    {
+        "name": "Bulgaria",
+        "name_ko": "불가리아",
+        "code": "+359"
+    },
+    {
+        "name": "Burkina Faso",
+        "name_ko": "부키 나 파소",
+        "code": "+226"
+    },
+    {
+        "name": "Burundi",
+        "name_ko": "부룬디",
+        "code": "+257"
+    },
+    {
+        "name": "Cambodia",
+        "name_ko": "캄보디아",
+        "code": "+855"
+    },
+    {
+        "name": "Cameroon",
+        "name_ko": "카메룬",
+        "code": "+237"
+    },
+    {
+        "name": "Canada",
+        "name_ko": "캐나다",
+        "code": "+1"
+    },
+    {
+        "name": "Cape Verde",
+        "name_ko": "Cape Verde",
+        "code": "+238"
+    },
+    {
+        "name": "Cayman Islands",
+        "name_ko": "케이맨 제도",
+        "code": "+ 345"
+    },
+    {
+        "name": "Central African Republic",
+        "name_ko": "중앙아프리카공화국",
+        "code": "+236"
+    },
+    {
+        "name": "Chad",
+        "name_ko": "차드",
+        "code": "+235"
+    },
+    {
+        "name": "Chile",
+        "name_ko": "칠레",
+        "code": "+56"
+    },
+    {
+        "name": "China",
+        "name_ko": "중국",
+        "code": "+86"
+    },
+    {
+        "name": "Christmas Island",
+        "name_ko": "크리스마스 섬",
+        "code": "+61"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "name_ko": "코코스(킬링) 제도",
+        "code": "+61"
+    },
+    {
+        "name": "Colombia",
+        "name_ko": "콜롬비아",
+        "code": "+57"
+    },
+    {
+        "name": "Comoros",
+        "name_ko": "코모로",
+        "code": "+269"
+    },
+    {
+        "name": "Congo",
+        "name_ko": "콩고",
+        "code": "+242"
+    },
+    {
+        "name": "Congo, The Democratic Republic of the Congo",
+        "name_ko": "콩고 민주공화국",
+        "code": "+243"
+    },
+    {
+        "name": "Cook Islands",
+        "name_ko": "쿡 제도",
+        "code": "+682"
+    },
+    {
+        "name": "Costa Rica",
+        "name_ko": "코스타리카",
+        "code": "+506"
+    },
+    {
+        "name": "Cote d'Ivoire",
+        "name_ko": "코트디부아르",
+        "code": "+225"
+    },
+    {
+        "name": "Croatia",
+        "name_ko": "크로아티아",
+        "code": "+385"
+    },
+    {
+        "name": "Cuba",
+        "name_ko": "쿠바",
+        "code": "+53"
+    },
+    {
+        "name": "Cyprus",
+        "name_ko": "키프로스",
+        "code": "+357"
+    },
+    {
+        "name": "Czech Republic",
+        "name_ko": "Czech Republic",
+        "code": "+420"
+    },
+    {
+        "name": "Denmark",
+        "name_ko": "덴마크",
+        "code": "+45"
+    },
+    {
+        "name": "Djibouti",
+        "name_ko": "지부티",
+        "code": "+253"
+    },
+    {
+        "name": "Dominica",
+        "name_ko": "도미니카",
+        "code": "+1767"
+    },
+    {
+        "name": "Dominican Republic",
+        "name_ko": "도미니카 공화국",
+        "code": "+1849"
+    },
+    {
+        "name": "Ecuador",
+        "name_ko": "에콰도르",
+        "code": "+593"
+    },
+    {
+        "name": "Egypt",
+        "name_ko": "이집트",
+        "code": "+20"
+    },
+    {
+        "name": "El Salvador",
+        "name_ko": "엘살바도르",
+        "code": "+503"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "name_ko": "E적도 기니",
+        "code": "+240"
+    },
+    {
+        "name": "Eritrea",
+        "name_ko": "에리트레아",
+        "code": "+291"
+    },
+    {
+        "name": "Estonia",
+        "name_ko": "에스토니아",
+        "code": "+372"
+    },
+    {
+        "name": "Ethiopia",
+        "name_ko": "에티오피아",
+        "code": "+251"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "name_ko": "포클랜드제도",
+        "code": "+500"
+    },
+    {
+        "name": "Faroe Islands",
+        "name_ko": "페로제도s",
+        "code": "+298"
+    },
+    {
+        "name": "Fiji",
+        "name_ko": "피지",
+        "code": "+679"
+    },
+    {
+        "name": "Finland",
+        "name_ko": "핀란드",
+        "code": "+358"
+    },
+    {
+        "name": "France",
+        "name_ko": "프랑스",
+        "code": "+33"
+    },
+    {
+        "name": "French Guiana",
+        "name_ko": "프랑스령 기아나",
+        "code": "+594"
+    },
+    {
+        "name": "French Polynesia",
+        "name_ko": "프랑스 령 폴리네시아의",
+        "code": "+689"
+    },
+    {
+        "name": "Gabon",
+        "name_ko": "가봉",
+        "code": "+241"
+    },
+    {
+        "name": "Gambia",
+        "name_ko": "감비아",
+        "code": "+220"
+    },
+    {
+        "name": "Georgia",
+        "name_ko": "조지아",
+        "code": "+995"
+    },
+    {
+        "name": "Germany",
+        "name_ko": "독일",
+        "code": "+49"
+    },
+    {
+        "name": "Ghana",
+        "name_ko": "가나",
+        "code": "+233"
+    },
+    {
+        "name": "Gibraltar",
+        "name_ko": "지브롤터",
+        "code": "+350"
+    },
+    {
+        "name": "Greece",
+        "name_ko": "그리스",
+        "code": "+30"
+    },
+    {
+        "name": "Greenland",
+        "name_ko": "그린란드",
+        "code": "+299"
+    },
+    {
+        "name": "Grenada",
+        "name_ko": "그레나다",
+        "code": "+1473"
+    },
+    {
+        "name": "Guadeloupe",
+        "name_ko": "과들루프",
+        "code": "+590"
+    },
+    {
+        "name": "Guam",
+        "name_ko": "괌",
+        "code": "+1671"
+    },
+    {
+        "name": "Guatemala",
+        "name_ko": "과테말라",
+        "code": "+502"
+    },
+    {
+        "name": "Guernsey",
+        "name_ko": "건지",
+        "code": "+44"
+    },
+    {
+        "name": "Guinea",
+        "name_ko": "기니",
+        "code": "+224"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "name_ko": "기니비사우",
+        "code": "+245"
+    },
+    {
+        "name": "Guyana",
+        "name_ko": "가이아나",
+        "code": "+592"
+    },
+    {
+        "name": "Haiti",
+        "name_ko": "아이티",
+        "code": "+509"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "name_ko": "바티칸 시국",
+        "code": "+379"
+    },
+    {
+        "name": "Honduras",
+        "name_ko": "온두라스",
+        "code": "+504"
+    },
+    {
+        "name": "Hong Kong",
+        "name_ko": "홍콩",
+        "code": "+852"
+    },
+    {
+        "name": "Hungary",
+        "name_ko": "헝가리",
+        "code": "+36"
+    },
+    {
+        "name": " Heard Island and McDonald Islands",
+        "name_ko": "허드 맥도날드 제도",
+        "code": "+672 "
+    },
+    {
+        "name": "Iceland",
+        "name_ko": "아이슬란드",
+        "code": "+354"
+    },
+    {
+        "name": "India",
+        "name_ko": "인도",
+        "code": "+91"
+    },
+    {
+        "name": "Indonesia",
+        "name_ko": "인도네시아",
+        "code": "+62"
+    },
+    {
+        "name": "Iran, (Islamic Republic of)",
+        "name_ko": "이란",
+        "code": "+98"
+    },
+    {
+        "name": "Iraq",
+        "name_ko": "이라크",
+        "code": "+964"
+    },
+    {
+        "name": "Ireland",
+        "name_ko": "아일랜드",
+        "code": "+353"
+    },
+    {
+        "name": "Isle of Man",
+        "name_ko": "맨섬",
+        "code": "+44"
+    },
+    {
+        "name": "Israel",
+        "name_ko": "이스라엘",
+        "code": "+972"
+    },
+    {
+        "name": "Italy",
+        "name_ko": "이탈리아",
+        "code": "+39"
+    },
+    {
+        "name": "Jamaica",
+        "name_ko": "자메이카",
+        "code": "+1876"
+    },
+    {
+        "name": "Japan",
+        "name_ko": "일본",
+        "code": "+81"
+    },
+    {
+        "name": "Jersey",
+        "name_ko": "저지",
+        "code": "+44"
+    },
+    {
+        "name": "Jordan",
+        "name_ko": "요르단",
+        "code": "+962"
+    },
+    {
+        "name": "Kazakhstan",
+        "name_ko": "카자흐스탄",
+        "code": "+7"
+    },
+    {
+        "name": "Kenya",
+        "name_ko": "케냐",
+        "code": "+254"
+    },
+    {
+        "name": "Kiribati",
+        "name_ko": "키리바시",
+        "code": "+686"
+    },
+    {
+        "name": "Korea (Democratic People's Republic of)",
+        "name_ko": "북한",
+        "code": "+850"
+    },
+    {
+        "name": "Korea (Republic of)",
+        "name_ko": "대한민국",
+        "code": "+82"
+    },
+    {
+        "name": "Kuwait",
+        "name_ko": "쿠웨이트",
+        "code": "+965"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "name_ko": "키르기스스탄",
+        "code": "+996"
+    },
+    {
+        "name": "Laos",
+        "name_ko": "라오스",
+        "code": "+856"
+    },
+    {
+        "name": "Latvia",
+        "name_ko": "라트비아",
+        "code": "+371"
+    },
+    {
+        "name": "Lebanon",
+        "name_ko": "레바논",
+        "code": "+961"
+    },
+    {
+        "name": "Lesotho",
+        "name_ko": "레소토",
+        "code": "+266"
+    },
+    {
+        "name": "Liberia",
+        "name_ko": "라이베리아",
+        "code": "+231"
+    },
+    {
+        "name": " Libya",
+        "name_ko": "리비아",
+        "code": "+218"
+    },
+    {
+        "name": "Liechtenstein",
+        "name_ko": "리히텐슈타인",
+        "code": "+423"
+    },
+    {
+        "name": "Lithuania",
+        "name_ko": "리투아니아",
+        "code": "+370"
+    },
+    {
+        "name": "Luxembourg",
+        "name_ko": "룩셈부르크",
+        "code": "+352"
+    },
+    {
+        "name": "Macao",
+        "name_ko": "마카오",
+        "code": "+853"
+    },
+    {
+        "name": "North Macedonia",
+        "name_ko": "북마케도니아",
+        "code": "+389"
+    },
+    {
+        "name": "Madagascar",
+        "name_ko": "마다가스카르",
+        "code": "+261"
+    },
+    {
+        "name": "Malawi",
+        "name_ko": "말라위",
+        "code": "+265"
+    },
+    {
+        "name": "Malaysia",
+        "name_ko": "말레이시아",
+        "code": "+60"
+    },
+    {
+        "name": "Maldives",
+        "name_ko": "몰디브",
+        "code": "+960"
+    },
+    {
+        "name": "Mali",
+        "name_ko": "말리",
+        "code": "+223"
+    },
+    {
+        "name": "Malta",
+        "name_ko": "몰타",
+        "code": "+356"
+    },
+    {
+        "name": "Marshall Islands",
+        "name_ko": "마셜 제도",
+        "code": "+692"
+    },
+    {
+        "name": "Martinique",
+        "name_ko": "마르티니크",
+        "code": "+596"
+    },
+    {
+        "name": "Mauritania",
+        "name_ko": "모리타니",
+        "code": "+222"
+    },
+    {
+        "name": "Mauritius",
+        "name_ko": "모리셔스",
+        "code": "+230"
+    },
+    {
+        "name": "Mayotte",
+        "name_ko": "마요트",
+        "code": "+262"
+    },
+    {
+        "name": "Mexico",
+        "name_ko": "멕시코",
+        "code": "+52"
+    },
+    {
+        "name": "Micronesia, Federated States of Micronesia",
+        "name_ko": "미크로네시아",
+        "code": "+691"
+    },
+    {
+        "name": "Moldova",
+        "name_ko": "몰도바",
+        "code": "+373"
+    },
+    {
+        "name": "Monaco",
+        "name_ko": "모나코",
+        "code": "+377"
+    },
+    {
+        "name": "Mongolia",
+        "name_ko": "몽골리아",
+        "code": "+976"
+    },
+    {
+        "name": "Montenegro",
+        "name_ko": "몬테네그로",
+        "code": "+382"
+    },
+    {
+        "name": "Montserrat",
+        "name_ko": "몬세라트",
+        "code": "+1664"
+    },
+    {
+        "name": "Morocco",
+        "name_ko": "모로코",
+        "code": "+212"
+    },
+    {
+        "name": "Mozambique",
+        "name_ko": "모잠비크",
+        "code": "+258"
+    },
+    {
+        "name": "Myanmar",
+        "name_ko": "미얀마",
+        "code": "+95"
+    },
+    {
+        "name": "Namibia",
+        "name_ko": "나미비아",
+        "code": "+264"
+    },
+    {
+        "name": "Nauru",
+        "name_ko": "나우루",
+        "code": "+674"
+    },
+    {
+        "name": "Nepal",
+        "name_ko": "네팔",
+        "code": "+977"
+    },
+    {
+        "name": "Netherlands",
+        "name_ko": "네덜란드",
+        "code": "+31"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "name_ko": "Netherlands Antilles",
+        "code": "+599"
+    },
+    {
+        "name": "New Caledonia",
+        "name_ko": "뉴칼레도니아",
+        "code": "+687"
+    },
+    {
+        "name": "New Zealand",
+        "name_ko": "뉴질랜드",
+        "code": "+64"
+    },
+    {
+        "name": "Nicaragua",
+        "name_ko": "니카라과",
+        "code": "+505"
+    },
+    {
+        "name": "Niger",
+        "name_ko": "니제르",
+        "code": "+227"
+    },
+    {
+        "name": "Nigeria",
+        "name_ko": "나이지리아",
+        "code": "+234"
+    },
+    {
+        "name": "Niue",
+        "name_ko": "니우에",
+        "code": "+683"
+    },
+    {
+        "name": "Norfolk Island",
+        "name_ko": "노퍽 섬",
+        "code": "+672"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "name_ko": "북마리아나 제도",
+        "code": "+1670"
+    },
+    {
+        "name": "Norway",
+        "name_ko": "노르웨이",
+        "code": "+47"
+    },
+    {
+        "name": "Oman",
+        "name_ko": "오만",
+        "code": "+968"
+    },
+    {
+        "name": "Pakistan",
+        "name_ko": "파키스탄",
+        "code": "+92"
+    },
+    {
+        "name": "Palau",
+        "name_ko": "팔라우",
+        "code": "+680"
+    },
+    {
+        "name": "Palestinian",
+        "name_ko": "팔레스타인",
+        "code": "+970"
+    },
+    {
+        "name": "Panama",
+        "name_ko": "파나마",
+        "code": "+507"
+    },
+    {
+        "name": "Papua New Guinea",
+        "name_ko": "파푸아 뉴기니",
+        "code": "+675"
+    },
+    {
+        "name": "Paraguay",
+        "name_ko": "파라과이",
+        "code": "+595"
+    },
+    {
+        "name": "Peru",
+        "name_ko": "페루",
+        "code": "+51"
+    },
+    {
+        "name": "Philippines",
+        "name_ko": "필리핀",
+        "code": "+63"
+    },
+    {
+        "name": "Pitcairn",
+        "name_ko": "핏케언",
+        "code": "+64"
+    },
+    {
+        "name": "Poland",
+        "name_ko": "폴란드",
+        "code": "+48"
+    },
+    {
+        "name": "Portugal",
+        "name_ko": "포르투갈",
+        "code": "+351"
+    },
+    {
+        "name": "Puerto Rico",
+        "name_ko": "푸에르토리코",
+        "code": "+1939"
+    },
+    {
+        "name": "Qatar",
+        "name_ko": "카타르",
+        "code": "+974"
+    },
+    {
+        "name": "Romania",
+        "name_ko": "루마니아",
+        "code": "+40"
+    },
+    {
+        "name": "Russia",
+        "name_ko": "러시아",
+        "code": "+7"
+    },
+    {
+        "name": "Rwanda",
+        "name_ko": "르완다",
+        "code": "+250"
+    },
+    {
+        "name": "Reunion",
+        "name_ko": "재결합",
+        "code": "+262"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "name_ko": "생 바르텔레미",
+        "code": "+590"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "name_ko": "세인트 헬레나, 어센션 and 트리스탄 다 쿠냐",
+        "code": "+290"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "name_ko": "세인트키츠네비스",
+        "code": "+1869"
+    },
+    {
+        "name": "Saint Lucia",
+        "name_ko": "Saint Lucia",
+        "code": "+1758"
+    },
+    {
+        "name": "Saint Martin",
+        "name_ko": "세인트마틴섬",
+        "code": "+590"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "name_ko": "생피에르 미클롱",
+        "code": "+508"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "name_ko": "세인트빈센트 그레나딘",
+        "code": "+1784"
+    },
+    {
+        "name": "Samoa",
+        "name_ko": "사모아",
+        "code": "+685"
+    },
+    {
+        "name": "San Marino",
+        "name_ko": "산 마리노",
+        "code": "+378"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "name_ko": "상투메프린시페",
+        "code": "+239"
+    },
+    {
+        "name": "Saudi Arabia",
+        "name_ko": "사우디아라비아",
+        "code": "+966"
+    },
+    {
+        "name": "Senegal",
+        "name_ko": "세네갈",
+        "code": "+221"
+    },
+    {
+        "name": "Serbia",
+        "name_ko": "세르비아",
+        "code": "+381"
+    },
+    {
+        "name": "Seychelles",
+        "name_ko": "세이셸",
+        "code": "+248"
+    },
+    {
+        "name": "Sierra Leone",
+        "name_ko": "시에라리온",
+        "code": "+232"
+    },
+    {
+        "name": "Singapore",
+        "name_ko": "싱가포르",
+        "code": "+65"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "name_ko": "신트마르턴",
+        "code": "+599"
+    },
+    {
+        "name": "Slovakia",
+        "name_ko": "슬로바키아",
+        "code": "+421"
+    },
+    {
+        "name": "Slovenia",
+        "name_ko": "슬로베니아",
+        "code": "+386"
+    },
+    {
+        "name": "Solomon Islands",
+        "name_ko": "솔로몬 제도",
+        "code": "+677"
+    },
+    {
+        "name": "Somalia",
+        "name_ko": "소말리아",
+        "code": "+252"
+    },
+    {
+        "name": "South Africa",
+        "name_ko": "남아프리카",
+        "code": "+27"
+    },
+    {
+        "name": "South Sudan",
+        "name_ko": "남수단공화국",
+        "code": "+211"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "name_ko": "사우스조지아 사우스샌드위치 제도",
+        "code": "+500"
+    },
+    {
+        "name": "Spain",
+        "name_ko": "스페인",
+        "code": "+34"
+    },
+    {
+        "name": "Sri Lanka",
+        "name_ko": "스리랑카",
+        "code": "+94"
+    },
+    {
+        "name": "Sudan",
+        "name_ko": "수단",
+        "code": "+249"
+    },
+    {
+        "name": "Suriname",
+        "name_ko": "수리남",
+        "code": "+597"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "name_ko": "스발바르 and 얀 마옌",
+        "code": "+47"
+    },
+    {
+        "name": "Swaziland",
+        "name_ko": "Swaziland",
+        "code": "+268"
+    },
+    {
+        "name": "Sweden",
+        "name_ko": "스웨덴",
+        "code": "+46"
+    },
+    {
+        "name": "Switzerland",
+        "name_ko": "스위스",
+        "code": "+41"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "name_ko": "시리아",
+        "code": "+963"
+    },
+    {
+        "name": "Taiwan",
+        "name_ko": "대만",
+        "code": "+886"
+    },
+    {
+        "name": "Tajikistan",
+        "name_ko": "타지키스탄",
+        "code": "+992"
+    },
+    {
+        "name": "Tanzania, United Republic of Tanzania",
+        "name_ko": "탄자니아",
+        "code": "+255"
+    },
+    {
+        "name": "Thailand",
+        "name_ko": "태국",
+        "code": "+66"
+    },
+    {
+        "name": "Timor-Leste",
+        "name_ko": "동티모르",
+        "code": "+670"
+    },
+    {
+        "name": "Togo",
+        "name_ko": "토고",
+        "code": "+228"
+    },
+    {
+        "name": "Tokelau",
+        "name_ko": "토켈라우",
+        "code": "+690"
+    },
+    {
+        "name": "Tonga",
+        "name_ko": "통가",
+        "code": "+676"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "name_ko": "트리니다드토바고",
+        "code": "+1868"
+    },
+    {
+        "name": "Tunisia",
+        "name_ko": "튀니지",
+        "code": "+216"
+    },
+    {
+        "name": "Turkey",
+        "name_ko": "터키",
+        "code": "+90"
+    },
+    {
+        "name": "Turkmenistan",
+        "name_ko": "투르크메니스탄",
+        "code": "+993"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "name_ko": "터크스 케이커스 제도",
+        "code": "+1649"
+    },
+    {
+        "name": "Tuvalu",
+        "name_ko": "투발루",
+        "code": "+688"
+    },
+    {
+        "name": "Uganda",
+        "name_ko": "우간다",
+        "code": "+256"
+    },
+    {
+        "name": "Ukraine",
+        "name_ko": "우크라이나",
+        "code": "+380"
+    },
+    {
+        "name": "United Arab Emirates",
+        "name_ko": "아랍에미리트",
+        "code": "+971"
+    },
+    {
+        "name": "United Kingdom",
+        "name_ko": "영국",
+        "code": "+44"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "name_ko": "미국령 군소 제도",
+        "code": "+246"
+    },
+    {
+        "name": "United States of America",
+        "name_ko": "미국",
+        "code": "+1"
+    },
+    {
+        "name": "Uruguay",
+        "name_ko": "우루과이",
+        "code": "+598"
+    },
+    {
+        "name": "Uzbekistan",
+        "name_ko": "우즈베키스탄",
+        "code": "+998"
+    },
+    {
+        "name": "Vanuatu",
+        "name_ko": "바누아투",
+        "code": "+678"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of Venezuela",
+        "name_ko": "베네수엘라",
+        "code": "+58"
+    },
+    {
+        "name": "Vietnam",
+        "name_ko": "베트남",
+        "code": "+84"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "name_ko": "버진 아일랜드(영국)",
+        "code": "+1284"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "name_ko": "버진 아일랜드 (미국)",
+        "code": "+1340"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "name_ko": "왈리스에푸투나",
+        "code": "+681"
+    },
+    {
+        "name": "Western Sahara",
+        "name_ko": "서사하라",
+        "code": "+212"
+    },
+    {
+        "name": "Yemen",
+        "name_ko": "예멘",
+        "code": "+967"
+    },
+    {
+        "name": "Zambia",
+        "name_ko": "잠비아",
+        "code": "+260"
+    },
+    {
+        "name": "Zimbabwe",
+        "name_ko": "짐바브웨",
+        "code": "+263"
+    }
+]

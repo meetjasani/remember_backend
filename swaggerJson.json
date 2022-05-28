@@ -1,0 +1,423 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "compastrips-backend",
+        "description": "compastrips Admin API",
+        "version": "1.0.0",
+        "license": {
+            "name": "",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    },
+    "basePath": "/api/v1",
+    "tags": [
+        {
+            "name": "User",
+            "description": "Operations about User"
+        },
+        {
+            "name": "Admin",
+            "description": "Operations about Admin"
+        },
+        {
+            "name": "General",
+            "description": "Operations in general"
+        }
+    ],
+    "schemes": [
+        "https",
+        "http"
+    ],
+    "paths": {
+        "/user/auth/signup": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "first_name",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "last_name",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "user_name",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "email",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "password",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "gender",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": "1 for ascending order AND 0 for descending order"
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "nationality",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "mobile",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "in": "query",
+                        "name": "dob",
+                        "required": true,
+                        "schema": {
+                            "type": "date",
+                            "description": ""
+                        }
+                    }
+                ],
+                "responses": {
+                    "default": {
+                        "description": "successful operation"
+                    }
+                }
+            }
+        },
+        "/user/auth/login": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "email",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    },
+                    {
+                        "in": "query",
+                        "name": "password",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Invalid username/password supplied"
+                    }
+                }
+            }
+        },
+        "/user/auth/reset": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "oldPassword",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    },
+                    {
+                        "in": "query",
+                        "name": "newPassword",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Error in changing password"
+                    }
+                }
+            }
+        },
+        "/user/auth/forget": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "email",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    },
+                    {
+                        "in": "query",
+                        "name": "password",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Error in changing password"
+                    }
+                }
+            }
+        },
+        "/user/otp": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "mobile",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Error in changing password"
+                    }
+                }
+            }
+        },
+        "/user/verification": {
+            "post": {
+                "tags": [
+                    "User"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "mobile",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    },
+                    {
+                        "in": "query",
+                        "name": "code",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Error in changing password"
+                    }
+                }
+            }
+        },
+        "/admin/login": {
+            "post": {
+                "tags": [
+                    "Admin"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "email",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    },
+                    {
+                        "in": "query",
+                        "name": "password",
+                        "required": true,
+                        "type": "string",
+                        "description": ""
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Invalid username/password supplied"
+                    }
+                }
+            }
+        },
+        "/general/country": {
+            "get": {
+                "tags": [
+                    "General"
+                ],
+                "summary": "get all user",
+                "operationId": "register",
+                "produces": [
+                    "application/xml",
+                    "application/json"
+                ],
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "descrption": "successful operation",
+                        "schema": {
+                            "type": "object"
+                        }
+                    },
+                    "400": {
+                        "description": "Error in changing password"
+                    }
+                }
+            }
+        }
+    },
+    "securityDefinitions": {
+        "Bearer": {
+            "type": "apiKey",
+            "name": "Authorization",
+            "in": "header"
+        }
+    },
+    "definitions": {
+        "ApiResponse": {
+            "type": "object",
+            "properties": {
+                "data": {
+                    "type": "array"
+                },
+                "message": {
+                    "type": "string"
+                },
+                "status": {
+                    "type": "integer",
+                    "format": "int32"
+                },
+                "error": {
+                    "type": "object"
+                }
+            }
+        }
+    },
+    "externalDocs": {
+        "description": "Find out more about Swagger",
+        "url": "http://swagger.io"
+    }
+}
